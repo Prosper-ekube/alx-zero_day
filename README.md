@@ -1,1 +1,2 @@
-My first readme
+ALX-ZERO_DAY
+This repository
